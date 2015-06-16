@@ -1,0 +1,52 @@
+body{
+	font-family: 'Ubuntu', sans-serif;      
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 85%;            
+    height: 610px;       
+    margin-left: auto;      
+    margin-right: auto;
+}
+
+#about{
+	width: 100%;	
+}
+#aboutMe{
+	width: 75%;	
+}
+
+
+#aboutMe > p{
+	font-size: 19px;	
+}
+
+#disclaimer{
+	width: 75%;
+}
+
+#disclaimer > p{
+	font-size: 14px;
+}
+
+#credits{
+	width: 75%;
+}
+
+#credits > p{
+	font-size: 18px;	
+}
+
+#article{
+	width: 80%;	
+}
+
+
+#article > p{
+	font-size: 21px;	
+
+}
+
+#twitter{
+	text-align: center;
+}
+
